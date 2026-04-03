@@ -1,6 +1,5 @@
 ## Hey hey hey 👋
 
-<!--
 I am a Freelance Data Scientist who
 💪 solves complex problems in different domains
 🌍 is currently working in retail and inventory management
@@ -10,6 +9,5 @@ I am a Freelance Data Scientist who
 
 📬 Reach me at : vindhyarsiri@gmail.com or LinkedIn
 
-Languages and Tools :
+Skills:
 Python, SQL, GIT, PowerBI, Data Visualization, Deep Learning, Linux CLI, MLOps
--->
