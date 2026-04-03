@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey hey hey 👋
 
 <!--
-**svindhyar/svindhyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Freelance Data Scientist who
+💪 solves complex problems in different domains
+🌍 is currently working in retail and inventory management
+🔥 handled challenging tasks in Demand forecasting, Anomaly detection & Compliance analysis
+☀️ wants to inspire the next generation of women in science
+📝 I write at Medium
 
-Here are some ideas to get you started:
+📬 Reach me at : vindhyarsiri@gmail.com or LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Languages and Tools :
+Python, SQL, GIT, PowerBI, Data Visualization, Deep Learning, Linux CLI, MLOps
 -->
