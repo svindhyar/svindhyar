@@ -7,7 +7,7 @@ I am a Freelance Data Scientist who
 * ☀️ wants to inspire the next generation of women in science
 * 📝 I write at [Medium](https://medium.com/@svindhyar)
 
-📬 Reach me at : vindhyarsiri@gmail.com or [LinkedIn](https://www.linkedin.com/in/vindhya-rani-485b943b6/)
+📬 Reach me at : vindhyarsiri@gmail.com or [LinkedIn](https://www.linkedin.com/in/svindhyar/)
 
 Skills:
 Python, SQL, GIT, PowerBI, Data Visualization, Deep Learning, Linux CLI, MLOps
