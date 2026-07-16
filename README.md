@@ -5,9 +5,9 @@ I am a Freelance Data Scientist who
 * 🌍 is currently working in retail and inventory management
 * 🔥 handled challenging tasks in Demand forecasting, Anomaly detection & Compliance analysis
 * ☀️ wants to inspire the next generation of women in science
-* 📝 I write at [Medium](https://medium.com/@svindhyar)
+* 📝 I write at [Medium](https://medium.com/@viniverse)
 
-📬 Reach me at : vindhyarsiri@gmail.com or [LinkedIn](https://www.linkedin.com/in/svindhyar/)
+📬 Reach me at : vindhyarsiri@gmail.com or [LinkedIn](https://www.linkedin.com/in/viniverse/)
 
 Skills:
 Python, SQL, GIT, PowerBI, Data Visualization, Deep Learning, Linux CLI, MLOps
